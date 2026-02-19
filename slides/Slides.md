@@ -247,7 +247,7 @@ Az ALU (arithmetic processing unit) egyszerű számításokat végző áramkör,
 
 - $x×0=0$
 - $y^0=1$
-- $(a+b)×2=a×2+2ab+b×2$
+- $(a+b)^2=a^2+2ab+b^2$
 
 ---
 
@@ -255,7 +255,7 @@ Az ALU (arithmetic processing unit) egyszerű számításokat végző áramkör,
 
 - $x×0=0$
 - $y^0=1$
-- $(a+b)2=a2+2ab+b2$
+- $(a+b)^2=a^2+2ab+b^2$
 
 ## Tételek
 
@@ -291,7 +291,7 @@ szillogizmus:
 
 ## Tétel-e?
 
-1. A⇒B⇔¬A∨B
+1. (A⇒B)⇔(¬A∨B)
 
 2. (A⇒B)∨(B⇒A)
 
